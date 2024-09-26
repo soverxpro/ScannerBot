@@ -1,0 +1,17 @@
+109.94.209.168 Port: 21 State: open
+109.94.209.168 Port: 25 State: open
+109.94.209.168 Port: 53 State: open
+109.94.209.168 Port: 80 State: open
+109.94.209.168 Port: 110 State: open
+109.94.209.168 Port: 143 State: open
+109.94.209.168 Port: 443 State: open
+109.94.209.168 Port: 465 State: open
+109.94.209.168 Port: 587 State: open
+109.94.209.168 Port: 993 State: open
+109.94.209.168 Port: 995 State: open
+109.94.209.168 Port: 2332 State: open
+109.94.209.168 Port: 3306 State: open
+109.94.209.168 Port: 5666 State: open
+109.94.209.168 Port: 10050 State: open
+109.94.209.168 Port: 11211 State: open
+109.94.209.168 Port: 33060 State: open
